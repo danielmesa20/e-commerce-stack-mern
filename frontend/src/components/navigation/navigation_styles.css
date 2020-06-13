@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #222831;
+}
+
+.navlink { 
+    color: white !important;
+}
+
+.navlink:hover {
+    color: #32e0c4 !important;
+}
+
+.dropdown_menu{
+    background-color: #393e46;
+}
+
+.navbar_toggler{
+    background: #393e46;
+}
+
+.dropdown_item:hover{
+    background-color: #393e46;
+}
+
+.divider{
+    color: saddlebrown;
+    background-color: saddlebrown;
+    background: saddlebrown;
+}

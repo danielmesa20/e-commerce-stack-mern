@@ -1,0 +1,72 @@
+body {
+    background-color: #393e46;
+}
+
+.alert{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(226, 59, 59);
+    border: none;
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+/*Title*/
+.title_auth{
+    text-align: center;
+    color: white;
+}
+
+/*Submit button*/
+.button_auth {
+    background-color: #32e0c4;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin: auto;
+}
+
+.button_link {
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    width: 60%;
+    margin: auto;
+    margin-top: 5px;
+    display: block;
+}
+
+.button_auth:hover {
+    color: black;
+    background-color: #32e0c4;
+}
+
+.jumbotron_auth {
+    margin-top: 25px;
+    background-color: #222831;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+
+.row_auth {
+    justify-content: center;
+}
+
+.card_auth {
+    background-color: #393e46;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+#label_auth {
+    color: white;
+}
+
+.input_auth{
+    border: none;
+    border-radius: 7px;
+}
